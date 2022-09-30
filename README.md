@@ -1,1 +1,1 @@
-My first readme
+Ben is an awesome teacher
